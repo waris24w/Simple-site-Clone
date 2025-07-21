@@ -1,0 +1,167 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.outline{
+	background-color: #f6f6f5 ;
+	margin: 34px auto;
+	background-image: none;
+}
+
+.fpara{
+	font-size: 24px;
+	font-family: Open Sans;
+	color: rgb(119, 119, 119);
+	font-weight: 300;
+    line-height: 160%;
+    color: #777;
+    margin-bottom: 30px;
+
+}
+.hero-logo{
+	align-items: center;
+    width: 150px;
+    max-width: 950px;
+    margin: auto;
+    display: block;
+}
+
+.home-logo{
+    width: auto;
+    height: 140px;
+    max-width: 950px;
+    display: block;
+
+}
+.clogo{
+	width: 800px;
+	margin-left: -290px;
+}
+
+.main{
+	margin-left: auto;
+    align-items: center;
+    margin-right: auto;
+    display: block;
+    max-width: 1000px;
+}
+
+.threecol{
+	display: flex;
+	margin-bottom: 44px;
+}
+
+
+.threecol3{
+	flex-direction: column;
+    justify-content: space-between
+}
+
+.three-col-heading{
+	color: #a3bf57;
+	display: inline-block;
+	text-align: left;
+}
+
+.three-col-para{
+	display: block;
+	color: rgb(68, 68, 68);
+	font-size: 19px;
+	margin-bottom: 30px;
+}
+
+.readm{
+	text-transform: uppercase;
+	background-color: #f1f1f0;
+	align-self: flex-start;
+}
+.clickker{
+	color: #555454;
+	border-radius: 5px;
+	font-family: Open Sans,sans-serif;
+	padding: 16px 18px;
+	font-size: 16px;
+	text-decoration: none;
+
+}
+.contentwrap{
+	font-family: PT serif;
+    font-size: 20px;
+    margin: auto;
+    background: #0000;
+    display: block;
+    max-width: 1000px;
+    overflow: hidden;
+    margin-bottom: 27px;
+}
+.footwrap{
+	background-color: #333;
+	padding: 30px 20px;
+}
+.por-heading{
+	color: #7d9c1c;
+	font-size: 18px;
+	font-family: Open Sans Condensed, sans-serif;
+}
+.threepor{
+	display: flex
+;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.por1{
+	display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.por-para{
+	color: white;
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+	margin-bottom: 22px;
+	line-height: 25px;
+}
+.por-para-light{
+	color: #cbcbc1a6;
+	font-family: "Open Sans", sans-serif;
+
+}
+
+
+.box{
+	width: 289px;
+}
+
+#box1{
+	
+}
+#box2{
+	
+}
+#box3{
+	
+}
+
+.end-footer{
+	width: 100vw;
+	background-color: #111;
+	height: 20vh;
+    margin-left: -26px;
+    margin-bottom: -31px;
+
+}
+
+.first-f{
+	color: white;
+	border-right: 1px solid #999
+	    
+}
+
+.first-f ul li{
+	display: inline-block;
+    margin-right: 20px; /* Space between items */
+
+
+} 
